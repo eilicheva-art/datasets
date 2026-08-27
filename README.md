@@ -1,6 +1,6 @@
 # Datasets description
 
-## russian_region_stats_2024.csv
+## russian_regions_stats_2024.csv
 
 В датасете представлены данные по 85 субъектам РФ за 2024 год:
 - `Регион` - регион РФ;
