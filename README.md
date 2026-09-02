@@ -25,7 +25,7 @@
 
 Российская база бухгалтерской отчетности https://tochno.st/datasets/rfsd
 
-Ссылка на github https://github.com/irlcode/RFSD
+Ссылка на github, где лежат данные https://github.com/irlcode/RFSD
 
 
 
