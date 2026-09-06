@@ -16,7 +16,7 @@
 Источники: [Росстат](https://rosstat.gov.ru/) и [Федстат](https://www.fedstat.ru/).
 
 
-## ind_rlms_2024.csv и ind_rlms_2024_list_of_features.csv
+## ind_rlms_2024.csv
 Данные РМЭЗ НИУ ВШЭ по  индивидам за [2024 год](https://www.hse.ru/rlms/spss): ind_rlms_2024.csv - репрезентативная выборка по индивидам Волна 33 (2024).
 
 Подробное описание полей приведено [здесь](https://www.hse.ru/rlms/code).
